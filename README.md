@@ -1,4 +1,4 @@
-# Rename-js
+# Rename.js
 Rename your variables and other names in order to match your language's naming conventions
 
 ## Renaming
