@@ -1,5 +1,5 @@
 # Rename.js
-Rename your variables and other names in order to match your language's naming conventions
+Rename your variables and other names in order to follow your language's naming conventions
 
 ## Renaming
 rename(varName, inputType, outputType)
